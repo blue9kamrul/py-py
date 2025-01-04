@@ -1,5 +1,4 @@
 import sys
-from tkinter import Y
 
 # sys.stdout = open('cp-jan/output.txt', 'w')
 # sys.stdin = open('cp-jan/input.txt', 'r')
